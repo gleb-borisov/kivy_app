@@ -18,14 +18,5 @@ for one_week_total_price_sum in range(6 * 4):
 print('\nКол-во денег на призы за весь курс обучения -', total_course_sum)
 
 students = int(input('\nВведите кол-во студентов на курсе - '))
-<<<<<<< Updated upstream
 
 print('\nПереплата на каждого студента за курс составит -', total_course_sum / students)
-
-print('\nДобавил изменения после того как отложил предыдущий коммит')
-
-print('Добавил второе отложение')
-
-=======
-print('\nПереплата на каждого студента за курс составит -', total_course_sum / students)
->>>>>>> Stashed changes
